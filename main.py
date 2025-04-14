@@ -19,15 +19,18 @@ c=30
 print(a>b and a>c)
 print(a>b or a>c)
 print(not(print(a>b and a>c)))
-d=50
-d+=5
-print(d)
-d-=5
-print(d)
-d*=5
-print(d)
-d/=5
-print(d)
+d1=50
+d1+=5
+print(d1)
+d2=30
+d2-=5
+print(d2)
+d3=12
+d3*=5
+print(d3)
+d4=25
+d4/=5
+print(d4)
 
 x=[1,2,3]
 y=[6,7,8]
